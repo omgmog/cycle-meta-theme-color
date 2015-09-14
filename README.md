@@ -4,4 +4,4 @@ View the [demo page](https://blog.omgmog.net/cycle-meta-theme-color/demo.html) i
 
 ![](https://raw.githubusercontent.com/omgmog/cycle-meta-theme-color/gh-pages/preview.gif)
 
-Update 9/6/15: this doesn't seem be working any more. Tested on Chrome `43.0.2357.92` on Android `5.1.1`
+Working again on `45.0.2454.84` on Android 5.1.1
